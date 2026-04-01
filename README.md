@@ -2,7 +2,7 @@
 
 A roguelike dungeon crawler with procedurally generated levels, turn-based combat, fog of war, and RPG progression. Built with vanilla JavaScript and HTML5 Canvas.
 
-**[Play Now](https://thesnatcher757.github.io/Dungeon-of-Echoes](https://thesnatcher757.github.io/Dungeon-of-Echoes---RPG-Game/)**
+**[Play Now][(https://thesnatcher757.github.io/Dungeon-of-Echoes](https://thesnatcher757.github.io/Dungeon-of-Echoes---RPG-Game/](https://thesnatcher757.github.io/Dungeon-of-Echoes---RPG-Game/)**
 
 ## Features
 
